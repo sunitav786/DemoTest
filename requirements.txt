@@ -2,3 +2,4 @@ this is chat application
 Emoji
 Type option
 colors
+Dark mode
